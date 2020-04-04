@@ -1,8 +1,11 @@
 import React from 'react';
+import './global.css';
+
+import Login from './pages/Login';
 
 function App() {
   return (
-    <h1>Hello Oministack</h1>
+    <Login/>
   );
 }
 
