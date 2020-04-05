@@ -63,7 +63,7 @@ export default StyleSheet.create({
         justifyContent: 'space-between',
     },
 
-    actions: {
+    action: {
         backgroundColor: '#E02041',
         borderRadius: 8,
         height: 50,
@@ -77,5 +77,5 @@ export default StyleSheet.create({
         fontSize: 15,
         fontWeight: 'bold',
     },
-    
+
 });
