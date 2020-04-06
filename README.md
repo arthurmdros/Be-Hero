@@ -53,14 +53,14 @@ exibirá os casos para os benfeitores que poderão entrar em contato com as ONGs
 
 ![Casos de uma ong][logo4]
 
-[logo4]: https://github.com/arthurmdros/Be-Hero/blob/master/mobileIndex.jpeg "Detail"
+[logo4]: https://github.com/arthurmdros/Be-Hero/blob/master/mobileIndex.png "Detail"
 
 
 ### Entre em contato com a ONG
 
 ![Detalhe de um caso][logo5]
 
-[logo5]: https://github.com/arthurmdros/Be-Hero/blob/master/mobileDetail.jpeg "Detail"
+[logo5]: https://github.com/arthurmdros/Be-Hero/blob/master/mobileDetail.png "Detail"
 
 ## Execução:
 
