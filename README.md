@@ -51,16 +51,15 @@ exibirá os casos para os benfeitores que poderão entrar em contato com as ONGs
 
 ### Detalhes dos casos das ONGs cadastradas
 
-![Casos de uma ong][logo4]
-
-[logo4]: https://github.com/arthurmdros/Be-Hero/blob/master/mobileIndex.png "Detail"
-
+<p align="center">
+  <img src="https://github.com/arthurmdros/Be-Hero/blob/master/mobileIndex.png">
+</p>
 
 ### Entre em contato com a ONG
 
-![Detalhe de um caso][logo5]
-
-[logo5]: https://github.com/arthurmdros/Be-Hero/blob/master/mobileDetail.png "Detail"
+<p align="center">
+  <img src="https://github.com/arthurmdros/Be-Hero/blob/master/mobileDetail.png">
+</p>
 
 ## Execução:
 
